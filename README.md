@@ -1,2 +1,5 @@
-# My_public_first_repo
-trying to build my first repo
+# Learning
+In this repo I concentrate all learning material with connection to 
+coding (mainly in python)
+db management
+data science projects 
